@@ -1,0 +1,6 @@
+{
+  "name": "仮名マスター - Kana Master: Le Scritture Viventi",
+  "description": "仮名マスター - Kana Master: Le Scritture Viventi, a Japanese kana learning RPG game with exploration, battles, and puzzles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
